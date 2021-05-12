@@ -4,6 +4,7 @@ public class EmpJornalero extends Empleado {
 	public double valorHora;
 	public double horasEnElMes;
 	//Mensaje de prueba de Rodrigo vvv
+	//Mensaje de prueba de ms vvv
 
 	
 	
