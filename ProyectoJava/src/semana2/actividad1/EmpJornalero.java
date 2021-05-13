@@ -3,9 +3,6 @@ package semana2.actividad1;
 public class EmpJornalero extends Empleado {
 	public double valorHora;
 	public double horasEnElMes;
-	//Mensaje de prueba de Rodrigo vvv
-	//Mensaje de prueba de ms vvv
-	//MEnsaje de prueba de Andrés
 	
 	
 	public EmpJornalero() {
